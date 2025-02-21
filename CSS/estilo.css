@@ -1,0 +1,84 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.contenido{
+    padding: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.caja1{
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(168, 29, 11);
+    height: 70px;
+}
+.nombre{
+    text-align: center;
+    color: blanchedalmond;
+}
+.caja2{
+    height: 400px;
+    width: 100%;
+    background-color: orange;
+    display: grid;
+    place-content: center;
+    
+}
+.circulo1{
+    display: grid;
+    place-items: center;
+    height: 300px;
+    width: 300px;
+    background-color: brown;
+    border-radius: 50%;
+    
+    
+}
+.circulo2{
+    display: grid;
+    place-items: center;
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    border-radius: 50%;
+    
+    
+}
+.circulo3{
+    background-color: rgb(52, 231, 52);
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+.ovalo1{
+    
+    background-color: aqua;
+    height: 300px;
+    width: 400px;
+    border-radius: 50% ;
+    display: grid;
+    place-items: center;
+}
+.ovalo2{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    display: grid;
+    place-items: center;
+}
+.ovalo3{
+    background-color: darkcyan;
+    height: 100px;
+    width: 150px;
+    border-radius: 50%;
+    display: grid;
+    place-items: center;
+}
+.ovalo4{
+    background-color: rgb(231, 155, 181);
+    height: 80px;
+    width: 40px;
+    border-radius: 50%;
+}
